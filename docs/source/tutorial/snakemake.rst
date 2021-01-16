@@ -1,7 +1,7 @@
 Snakemake example
 =====================
-Since Snakemake direclty supports python, pyrpipe libraries can be driectly imorted into snakemake.
-Advantage of using a workflow manager like Snakemake is that it can handle parallel job-scheduling and scale jobs on clusters.
+Since Snakemake direclty supports python, pyrpipe libraries can be directly imorted into snakemake.
+An advantage of using a workflow manager like Snakemake is that it can handle parallel job-scheduling and scale jobs on clusters.
 
 
 Basic RNA-Seq example
